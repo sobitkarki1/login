@@ -16,6 +16,9 @@
                 <a class="nav-link active" aria-current="page" href="second">Second Page</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="entry">Entry Page</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="#">Link</a>
               </li>
               <li class="nav-item dropdown">

@@ -13,3 +13,8 @@ Route::get('/first', function () {
 Route::get('/second', function () {
     return view('second');
 });
+
+Route::get('/entry', function () {
+    return view('entry');
+});
+
